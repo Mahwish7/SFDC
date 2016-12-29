@@ -70,5 +70,5 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-
+<label>GuidanceBox</label>
 </CustomObject>
