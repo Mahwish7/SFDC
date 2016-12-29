@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
-<HEAD> 
+<<<<<<< HEAD
     <fields>
         <fullName>Field_Value__c</fullName>
         <deprecated>false</deprecated>
+=======
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
@@ -57,10 +58,9 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    </HEAD> 
     <fields>
         <fullName>Field_Value__c</fullName>
-
+>>>>>>> 0f5db8226799101cacfb3207fc96598043549372
         <description>When the field is equal to this value, the box is shown</description>
         <externalId>false</externalId>
         <inlineHelpText>When the field is equal to this value, the box is shown</inlineHelpText>
@@ -87,7 +87,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    
     <fields>
         <fullName>Guidance__c</fullName>
 <<<<<<< HEAD
