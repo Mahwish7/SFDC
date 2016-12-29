@@ -60,7 +60,7 @@
     <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>Field_Value__c</fullName>
-/> 0f5db8226799101cacfb3207fc96598043549372
+</Head>
         <description>When the field is equal to this value, the box is shown</description>
         <externalId>false</externalId>
         <inlineHelpText>When the field is equal to this value, the box is shown</inlineHelpText>
@@ -73,10 +73,10 @@
     </fields>
     <fields>
         <fullName>Field__c</fullName>
-< HEAD
+<HEAD>
         <deprecated>false</deprecated>
 
-> 0f5db8226799101cacfb3207fc96598043549372
+</HEAD>
         <description>Which field&apos;s value is used to find this guidance?</description>
         <externalId>false</externalId>
         <inlineHelpText>Which field&apos;s value is used to find this guidance?</inlineHelpText>
