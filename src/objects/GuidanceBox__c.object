@@ -99,7 +99,7 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <fullName>Field_Value__c</fullName>
+    <fullName>GuidanceBox</fullName>
     <actionOverrides>
         <actionName>Accept</actionName>
         <type>Default</type>
