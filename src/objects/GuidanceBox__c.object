@@ -71,4 +71,17 @@
         <unique>false</unique>
     </fields>
 <label>GuidanceBox</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <displayFormat>GB-{0}</displayFormat>
+        <label>GuidanceBox Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>GuidanceBoxes</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
